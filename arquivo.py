@@ -1,0 +1,1 @@
+def arquivoExiste(nome):
